@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>111.jpg</filename>
+	<path>D:\python\data\resized_images\train\111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra_cross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>267</ymin>
+			<xmax>667</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>
