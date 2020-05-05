@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00084.jpg</filename>
+	<path>C:\Users\Filipus Samuel\ZebraCross\Mask_RCNN-master\Mask_RCNN-master\zebra_cross\images\00084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra cross</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>527</ymin>
+			<xmax>800</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
