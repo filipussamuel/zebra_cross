@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>00085.jpg</filename>
+	<path>D:\FotoZebraCrossBaru\A\XML\00085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra cross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>378</ymin>
+			<xmax>665</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
