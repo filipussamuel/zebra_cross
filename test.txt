@@ -2,3 +2,4 @@ Github & Git
 - Melakukan Commit
 - Melakukan Branch
 - Melakukan Merge
+- Melakukan push and pull
