@@ -1,5 +1,6 @@
 Github & Git
 - Melakukan Commit
 - Melakukan Branch
-- Melakukan Merge
+- Melakukan Merge and Merge
 - Melakukan push and pull
+- Yoman
